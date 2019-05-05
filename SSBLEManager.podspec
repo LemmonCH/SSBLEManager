@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SSBLEManager"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "蓝牙基础模块"
   spec.description  = <<-DESC
 			                "蓝牙基础模块"
